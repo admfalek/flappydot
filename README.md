@@ -1,4 +1,4 @@
 # FlappyDot
 Simple imitation Flappy Bird game.
 
-![alt text](flappydot/img/flappydot-screen.png)
+![alt text](https://raw.githubusercontent.com/admfalek/flappydot/master/img/flappydot-screen.png)
